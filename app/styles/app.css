@@ -153,7 +153,7 @@ button.reset:hover:not(:has(> *)) {
 */
 .header {
   align-items: center;
-  @apply bg-fuchsia-600;
+  background: #fff;
   display: flex;
   height: var(--header-height);
   padding: 0 1rem;
